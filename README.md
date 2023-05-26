@@ -1,6 +1,6 @@
 
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate python/ developer from Ukraine</h3>
 
 - 🔭 I’m currently working on [HideApps](https://github.com/JDavailable/hide_apps_termux)
 
